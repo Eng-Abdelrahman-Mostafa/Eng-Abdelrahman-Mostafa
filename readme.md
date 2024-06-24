@@ -34,7 +34,7 @@
   <img width="12" />
   
   <!-- Frameworks and Libraries -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="40" alt="laravel logo" />
+  <img src="https://laravel.com/img/logomark.min.svg" height="40" alt="laravel logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo" />
   <img width="12" />
@@ -67,8 +67,6 @@
   <!-- Cloud Services -->
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="amazonwebservices logo" />
   
   <!-- Web Development -->
   <img width="12" />
@@ -118,13 +116,4 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Eng-Abdelrahman-Mostafa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=Eng-Abdelrahman-Mostafa&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
 
-###
-
-<img src="https://raw.githubusercontent.com/Eng-Abdelrahman-Mostafa/Eng-Abdelrahman-Mostafa/output/snake.svg" alt="Snake animation" />
-
-###
