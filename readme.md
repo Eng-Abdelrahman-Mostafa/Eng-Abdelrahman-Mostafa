@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2018<br><br>📚 I'm currently a CS fourth-year student at the Faculty of Computers & AI, Helwan University.<br><br>🎯 Goals: <br>1. Enjoying the journey while becoming rich<br>2. Working on myself to become one of the top software architects<br>3. Contributing to open-source projects<br>4. Continuously learning and adapting to new technologies<br>5. Building scalable and efficient backend systems<br>6. Mentoring and sharing knowledge with the developer community<br>7. Achieving a work-life balance to maintain personal well-being</p>
+<p align="left">✨ Creating bugs since 2016<br><br>📚 I'm currently a CS fourth-year student at the Faculty of Computers & AI, Helwan University.<br><br>🎯 Goals: <br>1. Enjoying the journey while becoming rich<br>2. Working on myself to become one of the top software architects<br>3. Contributing to open-source projects<br>4. Continuously learning and adapting to new technologies<br>5. Building scalable and efficient backend systems<br>6. Mentoring and sharing knowledge with the developer community<br>7. Achieving a work-life balance to maintain personal well-being</p>
 
 ###
 
